@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**all11n/all11n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Привет, я Алина!
 
-Here are some ideas to get you started:
+- 🔭 Сейчас учусь в Школе 21 и РТУ МИРЭА (Прикладная информатика, Управление )
+- 🌱 Глубоко копаю в сторону ML и аналитики, особенно интересуюсь MedTech
+- 👯 Ищу команду для junior/junior+ позиции
+- 📫 Связаться: [Telegram](https://t.me/username) | [Email](mailto:n1kal1na@yandex.ru)
+- 📌 Опыт работы: 06.2025 - 10.2025 Сбер | Стажер-аналитик (качество ML-модели)
+- ⚡ Факт: за 4 месяца стажировки в Сбере подняла Recall модели с 0.33 до 0.87
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Технический стек
+- **Языки**: Python (Pandas, NumPy, PyTorch, Scikit-learn, Matplotlib, Seaborn), SQL
+- **Анализ**: A/B тесты, статистика, визуализация (Power BI, Yandex DataLens)
+- **Инструменты**: Git, команды Linux, Hadoop (понимание)
+
