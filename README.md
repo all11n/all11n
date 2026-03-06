@@ -5,7 +5,7 @@
 - 👯 Ищу команду для junior/junior+ позиции
 - 📌 Опыт работы: 06.2025 - 10.2025 Сбер | Стажер-аналитик (качество ML-модели)
 - ⚡ Факт: за 4 месяца стажировки в Сбере подняла Recall модели с 0.33 до 0.87
-- 📫 Связаться: [Telegram](https://t.me/username) | [Email](mailto:n1kal1na@yandex.ru)
+- 📫 Связаться: [Telegram](https://t.me/allliin) | [Email](mailto:n1kal1na@yandex.ru)
 
 ### 🛠 Технический стек
 - **Языки**: Python (Pandas, NumPy, PyTorch, Scikit-learn, Matplotlib, Seaborn), SQL
